@@ -1,5 +1,7 @@
 # Java-Dasar
-
-* [Pengenalan Java](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/learn/lecture/24058054#overview)
-* [Menginstall Java ](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/learn/lecture/24058070#overview)
-* 
+## Tipe Data Boolean
+* `Tipe data boolean` adalah tipe data yang memiliki 2 nilai, yaitu **benar dan salah**.
+* `Tipe data boolean` di **Java** direpresentasikan dengan kata kunci `boolean`.
+* Nilai benar direpresentasikan dengan kata kunci `true`.
+* Nilai salah direpresentasikan dengan kata kunci `false`.
+* Default value untuk boolean adalah `false`.
