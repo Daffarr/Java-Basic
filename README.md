@@ -1,5 +1,38 @@
 # Java-Dasar
+## Operasi Boolean
 
-* [Pengenalan Java](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/learn/lecture/24058054#overview)
-* [Menginstall Java ](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/learn/lecture/24058070#overview)
-* 
+|Operator|Keterangan|
+|:---:|---|
+|&&|Dan|
+|\|\||Atau|
+|!|Kebalikan|
+
+---
+
+## Operasi &&
+|Nilai 1|Operator|Nilai 2|Hasil|
+|---|:---:|---|---|
+|true|&&|true|true|
+|true|&&|false|false|
+|false|&&|true|false|
+|false|&&|false|false|
+
+---
+
+## Operasi ||
+
+|Nilai 1|Operator|Nilai 2|Hasil|
+|---|:---:|---|---|
+|true|\|\||true|true|
+|true|\|\||false|true|
+|false|\|\||true|true|
+|false|\|\||false|false|
+
+---
+
+## Operasi !
+
+|Operator|Nilai 2|Hasil|
+|:---:|---|---|
+|!|true|false|
+|!|false|true|
