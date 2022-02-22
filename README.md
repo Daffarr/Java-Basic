@@ -1,5 +1,5 @@
 # Java-Dasar
-
-* [Pengenalan Java](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/learn/lecture/24058054#overview)
-* [Menginstall Java ](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/learn/lecture/24058070#overview)
-* 
+## Ternary Operator
+* `Ternary Operator` adalah operator sederhana dari `If Statement`.
+* Jadi pada kondisi tertentu `If Statement` bisa diganti menggunakan `Ternary Operator`
+* `Ternary operator` terdiri dari kondisi yang dievaluasi, jika menghasilkan `true`, **maka nilai pertama diambil**, jika `false`, **maka nilai kedua diambil**.
