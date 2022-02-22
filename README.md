@@ -1,5 +1,4 @@
 # Java-Dasar
-
-* [Pengenalan Java](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/learn/lecture/24058054#overview)
-* [Menginstall Java ](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/learn/lecture/24058070#overview)
-* 
+## While Loop
+* `While Loop` adalah versi perulangan yang **lebih sederhana dibanding** `for loop`.
+* Di `While Loop`, **hanya terdapat `kondisi` perulangan**, **tanpa ada** `Init Statement` dan `Post Statement`.
