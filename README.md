@@ -1,5 +1,6 @@
 # Java-Dasar
-
-* [Pengenalan Java](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/learn/lecture/24058054#overview)
-* [Menginstall Java ](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/learn/lecture/24058070#overview)
-* 
+## Method Variable Argument
+* Kadang kita butuh mengirim data ke `method` sejumlah data yang tidak pasti.
+* **Biasanya**, agar bisa seperti ini, kita akan **menggunakan Array sebagai `parameter` di `method` tersebut**.
+* Namun di **Java**, kita **bisa** **menggunakan** `variable argument`, **untuk mengirim data yang berisi jumlah tak tentu, bisa nol atau lebih.**
+* `Parameter` **dengan** `tipe variable argument`, hanya bisa **ditempatkan** **di posisi akhir parameter**.
