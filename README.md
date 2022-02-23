@@ -1,5 +1,5 @@
 # Java-Dasar
-
-* [Pengenalan Java](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/learn/lecture/24058054#overview)
-* [Menginstall Java ](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/learn/lecture/24058070#overview)
-* 
+## Scope
+* Di **Java**, variable hanya bisa diakses di dalam area dimana mereka dibuat.
+* Hal ini disebut `Scope`.
+* Contoh, jika sebuah variable dibuat di method, maka hanya bisa diakses di method tersebut, atau jika dibaut didalam block, maka hanya bisa diakses didalam block tersebut.
