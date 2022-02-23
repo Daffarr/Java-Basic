@@ -1,5 +1,5 @@
 # Java-Dasar
-
-* [Pengenalan Java](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/learn/lecture/24058054#overview)
-* [Menginstall Java ](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/learn/lecture/24058070#overview)
-* 
+## For Each 
+* **Kadang kita biasa mengakses `data array` menggunakan perulangan**.
+* Mengakses `data array` menggunakan perulangan sangat bertele-tele, kita harus membuat coutner, lalu mengakses array menggunakan counter yang kita buat.
+* Namun **untungnya**, di **Java terdapat perulangan** `for each`, yang bisa **digunakan untuk mengakses seluruh `data di Array` secara otomatis**.
