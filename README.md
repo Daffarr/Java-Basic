@@ -30,4 +30,4 @@
 * [Scope](https://github.com/Daffarr/Java-Basic/tree/scope)
 * [Komentar](https://github.com/Daffarr/Java-Basic/tree/komentar)
 
-Selanjutnya Materi [Object Oriented Programming]()
+Selanjutnya Materi [Object Oriented Programming](https://github.com/Daffarr/Java-Object-Oriented-Programming)
