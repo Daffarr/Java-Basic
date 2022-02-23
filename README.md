@@ -1,5 +1,5 @@
 # Java-Dasar
-
-* [Pengenalan Java](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/learn/lecture/24058054#overview)
-* [Menginstall Java ](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/learn/lecture/24058070#overview)
-* 
+## Method Overloading
+* `Method Overloading` adalah kemampuan membuat method dengan nama yang sama lebih dari sekali.
+* Namun ada ketentuannya, yaitu `parameter` di `method` tersebut **harus berbeda-beda**, baik itu jumlah ataupun tipe data parameternya.
+* **Jika ada yang sama**, maka program **Java** kita akan `error`
